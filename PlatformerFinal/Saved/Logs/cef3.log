@@ -1,0 +1,4 @@
+[0515/130021.309:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 23
+[0515/130021.581:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 25
+[0515/130044.380:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 33
+[0515/130216.314:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

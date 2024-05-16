@@ -1,0 +1,8 @@
+2024/05/15-13:00:21.509 6850 Reusing MANIFEST C:/Users/cocop/OneDrive/Documents/PlatformerFinal/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/15-13:00:21.509 6850 Recovering log #7
+2024/05/15-13:00:21.509 6850 Reusing old log C:/Users/cocop/OneDrive/Documents/PlatformerFinal/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2024/05/15-13:09:57.621 9674 Level-0 table #11: started
+2024/05/15-13:09:57.621 9674 Level-0 table #11: 0 bytes OK
+2024/05/15-13:09:57.622 9674 Delete type=0 #7
+2024/05/15-13:09:57.623 9674 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/15-13:09:57.623 9674 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
